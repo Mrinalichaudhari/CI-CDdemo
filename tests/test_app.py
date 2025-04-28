@@ -11,3 +11,6 @@ def test_multiply():
 def testmultiply():
     assert multiply(2, 6) == 12  # This will FAIL!
 
+def testdivision():
+    assert division(6, 2) == 3
+

@@ -1,0 +1,16 @@
+  721  ls
+  722  cd cicd
+  723  ls
+  724  ls -la
+  725  cd cicd
+  726  cd ..
+  727  cd cicd
+  728  ls
+  729  cp -r java-calculator-demo/cicd
+  730  ls
+  731  cd CI-CDdemo
+  732  cp java-calculator-demo/./CI-CDdemo/
+  733  ls
+  734  cp java-calculator-demo/./cicd/
+  735  cd cicd
+  736  cd cicd
