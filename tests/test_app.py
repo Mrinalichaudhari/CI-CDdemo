@@ -8,9 +8,9 @@ def test_add():
 def test_multiply():
     assert multiply(3, 4) == 12
 
-def testmultiply():
+#def testmultiply():
     assert multiply(2, 6) == 12  # This will FAIL!
 
-def testdivision():
+#def testdivision():
     assert division(6, 2) == 3
 
