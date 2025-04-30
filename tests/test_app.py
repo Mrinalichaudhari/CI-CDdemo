@@ -1,6 +1,7 @@
 # tests/test_app.py
 from app import add
 from app import multiply
+from app import division
 
 def test_add():
     assert add(2, 3) == 5
